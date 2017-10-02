@@ -7,3 +7,22 @@
   margin-top: 0px;
   padding-top: 0px;
 }
+.footer{
+  background-color: #292929;
+  padding: 50px;
+}
+.l.item{
+  color: white;
+}
+.ui.four.dividing.header{
+  color: white;
+}
+.ui.join.button{
+  border-radius: 0px;
+}
+.ui.join.input{
+  border-radius: 0px;
+}
+hr{
+  color: #ffffff;
+}
